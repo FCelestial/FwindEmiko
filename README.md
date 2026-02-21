@@ -1,7 +1,7 @@
 
 -----
 
-## ✨ 锐界幻境☆MiragEdge | 狐风轩汐 ✨
+## ✨ F.windEmiko | 狐风轩汐 ✨
 
 ## **你好，朋友。**  
 
@@ -9,7 +9,7 @@
 
 ## ✦ 技术贡献 ✦
 
-[![FwindEmi86's GitHub stats](https://github-readme-stats.vercel.app/api?username=FwindEmi86)](https://github.com/FwindEmi86/github-readme-stats)
+[![F.windEmiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=fwindemiko)](https://github.com/fwindemiko/github-readme-stats)
 
 -----
 
@@ -27,6 +27,6 @@
 
 ## ✦ 活跃情况 ✦
 
-![FwindEmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FwindEmi86&theme=tokyo-night)
+![F.windEmiko's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fwindemiko&theme=tokyo-night)
 
 -----
