@@ -1,17 +1,13 @@
 
 -----
 
-## ✨ F.windEmiko | 狐风轩汐 ✨
+## ✨ F.windEmiko |  狐风轩汐 ✨
 
 ## **你好，朋友。**  
-
------
 
 ## ✦ 活跃情况 ✦
 
 ![F.windEmiko's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fwindemiko&theme=tokyo-night)
-
------
 
 ## ✦ 关于锐界幻境 ✦
 
@@ -22,8 +18,6 @@
 ### 📚 实用链接
 
   * **锐界幻境文档：** 服务器的详细介绍、玩法攻略、常见问题都可以在这里找到！→ [https://miragedge.top/](https://miragedge.top/)
-
------
 
 ## ✦ 技术贡献 ✦
 
