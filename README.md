@@ -7,9 +7,9 @@
 
 -----
 
-## ✦ 技术贡献 ✦
+## ✦ 活跃情况 ✦
 
-[![F.windEmiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=fwindemiko)](https://github.com/fwindemiko/github-readme-stats)
+![F.windEmiko's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fwindemiko&theme=tokyo-night)
 
 -----
 
@@ -25,8 +25,8 @@
 
 -----
 
-## ✦ 活跃情况 ✦
+## ✦ 技术贡献 ✦
 
-![F.windEmiko's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fwindemiko&theme=tokyo-night)
+[![F.windEmiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=fwindemiko)](https://github.com/fwindemiko/github-readme-stats)
 
 -----
