@@ -13,7 +13,7 @@
 
 <br />
 
-**锐界幻境（MiragEdge）创始人，Minecraft 互通服缔造者。**  
+**锐界幻境 ☆ MiragEdge の 缔造者。**  
 全栈开发者 · 基础设施运维工程师 · 多厂商网络工程师。
 
 > *Crafting code with a fox's wit, the wind's flow, and the tide's calm.*
@@ -87,7 +87,7 @@
 <p align="center">
   <a href="https://github.com/FwindEmiko"><img src="https://img.shields.io/badge/GitHub-FwindEmiko-1E3A5F?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://miragedge.top/"><img src="https://img.shields.io/badge/%F0%9F%8C%8C_MiragEdge.top-3B82F6?style=flat-square" /></a>
-  <a href="https://github.com/FCelestial"><img src="https://img.shields.io/badge/%F0%9F%A6%8A_%E6%98%9F%E7%8E%92-60A5FA?style=flat-square&logo=&logoColor=white" /></a>
+  <a href="https://github.com/FCelestial"><code>🦊 星玖</code></a>
 </p>
 
 ---
