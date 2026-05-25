@@ -1,19 +1,20 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/header-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/header-light.svg" />
-    <img alt="Header" src="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/header-light.svg" width="95%" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=2563EB&center=true&vCenter=true&width=600&lines=%E2%9C%A8+%E7%8B%90%E9%A3%8E%E8%BD%A9%E6%B1%90+%C2%B7+F.windEmiko;%F0%9F%8C%99+%E7%8B%90%E9%A3%8E%E6%8B%82%E7%A0%81%EF%BC%8C%E6%B1%90%E8%90%BD%E6%88%90%E8%AF%97;%F0%9F%A6%8A+%E7%8B%90%E6%80%9D%E8%A7%A3%E7%BC%9A%EF%BC%8C%E9%A3%8E%E8%B5%B7%E6%88%90%E5%BA%8F;%F0%9F%8C%8A+%E8%BD%A9%E7%AA%97%E5%90%AC%E6%B1%90%EF%BC%8C%E9%94%AE%E8%90%BD%E7%94%9F%E8%8A%B1" alt="Typing SVG" />
 </p>
 
----
+## 🦊✨ 狐风轩汐
 
-## 🌊 关于我
+<div align="center">
+  <img src="https://img.shields.io/badge/Name-%E7%8B%90%E9%A3%8E%E8%BD%A9%E6%B1%90-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-MiragEdge_%E5%88%9B%E5%A7%8B%E4%BA%BA-1E3A5F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91+%E8%BF%90%E7%BB%B4+%E7%BD%91%E7%BB%9C-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Motto-%E7%8B%90%E9%A3%8E%E6%8B%82%E7%A0%81+%E6%B1%90%E8%90%BD%E6%88%90%E8%AF%97-60A5FA?style=for-the-badge" />
+</div>
 
-我是 **狐风轩汐**（F.windEmiko）。
+<br />
 
-锐界幻境（MiragEdge）创始人，Minecraft 插件开发者，兼基础设施运维与网络工程师。  
-喜欢用代码构建可靠且富有创造力的数字空间——无论是游戏世界的互通幻境，还是底层的网络架构。
+**锐界幻境（MiragEdge）创始人，Minecraft 互通服缔造者。**  
+全栈开发者 · 基础设施运维工程师 · 多厂商网络工程师。
 
 > *Crafting code with a fox's wit, the wind's flow, and the tide's calm.*
 
