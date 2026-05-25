@@ -9,10 +9,11 @@
   <a href="https://miragedge.top/"><img src="https://img.shields.io/badge/MiragEdge_%E9%94%90%E7%95%8C%E5%B9%BB%E5%A2%83-7C3AED?style=for-the-badge&logo=internetexplorer&logoColor=white" /></a>
 </p>
 
-<!-- 关于我 -->
+---
+
 ## 👋 你好，朋友。
 
-我是 **狐风轩汐**（F.windEmiko）—— **锐界幻境（MiragEdge）** 的创始人兼开发者。  
+我是 **狐风轩汐**（F.windEmiko）—— **锐界幻境（MiragEdge）** 的创始人兼全栈开发者。  
 热爱 Minecraft 插件开发，用代码搭建一个 Java 版与基岩版玩家能同台游戏的互通世界。
 
 > 🌌 创造一个让每个玩家都能找到归属感的幻境。
@@ -21,60 +22,54 @@
 
 ## 🛠️ 技术栈
 
+### 💻 开发
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![PaperMC](https://img.shields.io/badge/PaperMC-2B2B2B?style=flat-square&logo=papermc&logoColor=white)
-![Spigot](https://img.shields.io/badge/Spigot-ED8106?style=flat-square&logo=&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### 🐧 运维
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-24292F?style=flat-square&logo=tailscale&logoColor=white)
+
+### 🌐 网络
+
+![Ruijie RGSP](https://img.shields.io/badge/Ruijie_RGSP-003366?style=flat-square&logo=&logoColor=white)
+![Huawei HCIP](https://img.shields.io/badge/Huawei_HCIP-FF0000?style=flat-square&logo=huawei&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![H3C](https://img.shields.io/badge/H3C-0081C8?style=flat-square&logo=&logoColor=white)
+![EVE-NG](https://img.shields.io/badge/EVE--NG-009688?style=flat-square&logo=&logoColor=white)
 
 ---
 
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fwindemiko&show_icons=true&theme=transparent&hide_border=true&text_color=6b7280&title_color=7c3aed&icon_color=a78bfa" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwindemiko&layout=compact&theme=transparent&hide_border=true&text_color=6b7280&title_color=7c3aed" />
+  <img src="https://img.shields.io/github/stars/FwindEmiko?style=for-the-badge&logo=github&logoColor=white&color=a78bfa&labelColor=5b21b6&label=Stars" />
+  <img src="https://img.shields.io/github/followers/FwindEmiko?style=for-the-badge&logo=github&logoColor=white&color=c084fc&labelColor=5b21b6&label=Followers" />
+  <img src="https://img.shields.io/github/last-commit/FwindEmiko/FwindEmiko?style=for-the-badge&logo=github&logoColor=white&color=a78bfa&labelColor=5b21b6&label=Updated" />
 </div>
 
 <br />
 
-<!-- 贪吃蛇贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/snake-light.svg" />
   <img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/snake-light.svg" width="95%" />
 </picture>
-
----
-
-## 📦 项目精选
-
-### 🔮 锐界幻境核心
-
-| 项目 | 描述 | 语言 |
-|------|------|------|
-| [FwindEmikoCore](https://github.com/FwindEmiko/FwindEmikoCore) | 锐界幻境物品功能核心库 | Java |
-| [Aiyatsbus](https://github.com/FwindEmiko/aiyatsbus) | 自定义附魔框架（大型 Kotlin 项目） | Kotlin |
-| [Craftorithm](https://github.com/FwindEmiko/Craftorithm) | 合成引擎 | Java |
-| [FE_PVP](https://github.com/FwindEmiko/FE_PVP) | PvP 竞技场插件 — 团队竞技 & 单挑 | Java |
-| [FE_RefreshPapi](https://github.com/FwindEmiko/FE_RefreshPapi) | PlaceholderAPI 刷新扩展 | Java |
-| [FE_PassPlus](https://github.com/FwindEmiko/FE_PassPlus) | 月卡/权限系统 | Java |
-| [EMCShop](https://github.com/FwindEmiko/EMCShop) | 经济商店插件 | Java |
-
-### 📘 文档 & 社区
-
-| 项目 | 描述 |
-|------|------|
-| [MiragEdge-DocWeb](https://github.com/FwindEmiko/MiragEdge-DocWeb) | 🦊 锐界幻境文档站 — [miragedge.top](https://miragedge.top/) |
-| [picx-images-hosting](https://github.com/FwindEmiko/picx-images-hosting) | 图片托管服务 |
 
 ---
 
