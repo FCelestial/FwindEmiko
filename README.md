@@ -66,10 +66,10 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/FwindEmiko?style=for-the-badge&logo=github&logoColor=white&color=3B82F6&labelColor=1E3A5F&label=%E2%AD%90+Stars" />
   <img src="https://img.shields.io/github/followers/FwindEmiko?style=for-the-badge&logo=github&logoColor=white&color=60A5FA&labelColor=1E3A5F&label=%F0%9F%91%A5+Followers" />
   <img src="https://img.shields.io/github/last-commit/FwindEmiko/FwindEmiko?style=for-the-badge&logo=github&logoColor=white&color=3B82F6&labelColor=1E3A5F&label=%F0%9F%94%84+Updated" />
-  <img src="https://img.shields.io/github/repo-size/FwindEmiko/FwindEmiko?style=for-the-badge&logo=github&logoColor=white&color=60A5FA&labelColor=1E3A5F&label=%F0%9F%93%A6+Repos" />
+  <img src="https://img.shields.io/github/repo-size/FwindEmiko/FwindEmiko?style=for-the-badge&logo=github&logoColor=white&color=60A5FA&labelColor=1E3A5F&label=%F0%9F%93%A6+Profile" />
+  <img src="https://img.shields.io/github/languages/count/FwindEmiko/FwindEmikoCore?style=for-the-badge&logo=github&logoColor=white&color=3B82F6&labelColor=1E3A5F&label=Lang" />
 </div>
 
 <br />
@@ -87,7 +87,7 @@
 <p align="center">
   <a href="https://github.com/FwindEmiko"><img src="https://img.shields.io/badge/GitHub-FwindEmiko-1E3A5F?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://miragedge.top/"><img src="https://img.shields.io/badge/%F0%9F%8C%8C_MiragEdge.top-3B82F6?style=flat-square" /></a>
-  <a href="https://github.com/FCelestial">🦊 <img src="https://img.shields.io/badge/%E6%98%9F%E7%8E%92-60A5FA?style=flat-square" /></a>
+  <a href="https://github.com/FCelestial"><img src="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/fcelestial-badge.svg" /></a>
 </p>
 
 ---
