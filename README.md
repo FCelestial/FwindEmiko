@@ -1,12 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&color=60A5FA&center=true&vCenter=true&width=600&lines=%E7%8B%90%E9%A3%8E%E8%BD%A9%E6%B1%90+%E2%9C%A8;F.windEmiko;%E5%BE%AE%E9%A3%8E%E8%BF%87%E5%A4%84%EF%BC%8C%E6%B0%B4%E5%8A%A8%E8%93%9D%E6%B6%9F" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=%E7%8B%90%E9%A3%8E%E8%BD%A9%E6%B1%90+%E2%9C%A8;F.windEmiko;%E5%BE%AE%E9%A3%8E%E8%BF%87%E5%A4%84%EF%BC%8C%E6%B0%B4%E5%8A%A8%E8%93%9D%E6%B6%9F" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=26&duration=4000&pause=1000&color=60A5FA&center=true&vCenter=true&width=680&lines=%E7%8B%90%E9%A3%8E%E8%BD%A9%E6%B1%90+%C2%B7+F.windEmiko+%E2%9C%A8;%E9%94%90%E7%95%8C%E5%B9%BB%E5%A2%83+MiragEdge+%E5%88%9B%E5%A7%8B%E4%BA%BA;Minecraft+%E4%BA%92%E9%80%9A%E6%9C%8D+%C2%B7+Java+%C3%97+%E5%9F%BA%E5%B2%A9;%E8%AE%A9%E6%AF%8F%E4%B8%AA%E7%8E%A9%E5%AE%B6%E6%89%BE%E5%88%B0%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E5%B9%BB%E5%A2%83;%E9%A3%8E%E6%8B%82%E6%B0%B4%E9%9D%A2%EF%BC%8C%E8%87%AA%E6%9C%89%E6%B6%9F%E6%BC%AA" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=26&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=680&lines=%E7%8B%90%E9%A3%8E%E8%BD%A9%E6%B1%90+%C2%B7+F.windEmiko+%E2%9C%A8;%E9%94%90%E7%95%8C%E5%B9%BB%E5%A2%83+MiragEdge+%E5%88%9B%E5%A7%8B%E4%BA%BA;Minecraft+%E4%BA%92%E9%80%9A%E6%9C%8D+%C2%B7+Java+%C3%97+%E5%9F%BA%E5%B2%A9;%E8%AE%A9%E6%AF%8F%E4%B8%AA%E7%8E%A9%E5%AE%B6%E6%89%BE%E5%88%B0%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E5%B9%BB%E5%A2%83;%E9%A3%8E%E6%8B%82%E6%B0%B4%E9%9D%A2%EF%BC%8C%E8%87%AA%E6%9C%89%E6%B6%9F%E6%BC%AA" />
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MiragEdge_%E9%94%90%E7%95%8C%E5%B9%BB%E5%A2%83-1E3A5F?style=for-the-badge" />
 </p>
 
 ---
@@ -44,8 +40,15 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![KubeVirt](https://img.shields.io/badge/KubeVirt-1D7C42?style=flat-square&logo=&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins_Slave-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![JumpServer](https://img.shields.io/badge/JumpServer-00979D?style=flat-square&logo=&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-02A8EF?style=flat-square&logo=packer&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-24292F?style=flat-square&logo=tailscale&logoColor=white)
 
 ### 🌐 网络
@@ -70,9 +73,9 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/snake-light.svg" />
-  <img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/snake-light.svg" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/snake-light.svg" />
+  <img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/snake-light.svg" width="95%" />
 </picture>
 
 ---
