@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="50" viewBox="0 0 400 50">
+  <text x="200" y="30" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#888">
+    ⏳ 贪吃蛇生成中...请先运行 GitHub Actions
+  </text>
+</svg>
