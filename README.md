@@ -20,6 +20,14 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/snake-light.svg" />
+  <img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/snake-light.svg" width="95%" />
+</picture>
+
+---
+
 ## 🛠️ 技术栈
 
 ### 💻 开发
@@ -71,14 +79,6 @@
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![H3C](https://img.shields.io/badge/H3C-0081C8?style=flat-square&logo=&logoColor=white)
 ![EVE-NG](https://img.shields.io/badge/EVE--NG-009688?style=flat-square&logo=&logoColor=white)
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/snake-light.svg" />
-  <img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/snake-light.svg" width="95%" />
-</picture>
 
 ---
 
