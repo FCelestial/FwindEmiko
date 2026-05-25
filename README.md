@@ -1,12 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&color=60A5FA&center=true&vCenter=true&width=600&lines=%E7%8B%90%E9%A3%8E%E8%BD%A9%E6%B1%90+%E2%9C%A8;F.windEmiko;%E5%BE%AE%E9%A3%8E%E8%BF%87%E5%A4%84%EF%BC%8C%E6%B0%B4%E5%8A%A8%E8%93%9D%E6%B6%9F" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=%E7%8B%90%E9%A3%8E%E8%BD%A9%E6%B1%90+%E2%9C%A8;F.windEmiko;%E5%BE%AE%E9%A3%8E%E8%BF%87%E5%A4%84%EF%BC%8C%E6%B0%B4%E5%8A%A8%E8%93%9D%E6%B6%9F" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=26&duration=4000&pause=1200&color=60A5FA&center=true&vCenter=true&width=680&lines=%E2%9C%A8+%E7%8B%90%E9%A3%8E%E8%BD%A9%E6%B1%90+%C2%B7+F.windEmiko;%F0%9F%8C%99+%E7%8B%90%E9%A3%8E%E6%8B%82%E7%A0%81%EF%BC%8C%E6%B1%90%E8%90%BD%E6%88%90%E8%AF%97;%F0%9F%A6%8A+%E7%8B%90%E6%80%9D%E8%A7%A3%E7%BC%9A%EF%BC%8C%E9%A3%8E%E8%B5%B7%E6%88%90%E5%BA%8F;%F0%9F%8C%8A+%E8%BD%A9%E7%AA%97%E5%90%AC%E6%B1%90%EF%BC%8C%E9%94%AE%E8%90%BD%E7%94%9F%E8%8A%B1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=26&duration=4000&pause=1200&color=2563EB&center=true&vCenter=true&width=680&lines=%E2%9C%A8+%E7%8B%90%E9%A3%8E%E8%BD%A9%E6%B1%90+%C2%B7+F.windEmiko;%F0%9F%8C%99+%E7%8B%90%E9%A3%8E%E6%8B%82%E7%A0%81%EF%BC%8C%E6%B1%90%E8%90%BD%E6%88%90%E8%AF%97;%F0%9F%A6%8A+%E7%8B%90%E6%80%9D%E8%A7%A3%E7%BC%9A%EF%BC%8C%E9%A3%8E%E8%B5%B7%E6%88%90%E5%BA%8F;%F0%9F%8C%8A+%E8%BD%A9%E7%AA%97%E5%90%AC%E6%B1%90%EF%BC%8C%E9%94%AE%E8%90%BD%E7%94%9F%E8%8A%B1" />
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MiragEdge_%E9%94%90%E7%95%8C%E5%B9%BB%E5%A2%83-1E3A5F?style=for-the-badge" />
 </p>
 
 ---
@@ -18,7 +14,7 @@
 锐界幻境（MiragEdge）创始人，Minecraft 插件开发者，兼基础设施运维与网络工程师。  
 喜欢用代码构建可靠且富有创造力的数字空间——无论是游戏世界的互通幻境，还是底层的网络架构。
 
-> 风拂水面，自有涟漪。做有力量而不张扬的事。
+> *Crafting code with a fox's wit, the wind's flow, and the tide's calm.*
 
 ---
 
@@ -44,8 +40,15 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![KubeVirt](https://img.shields.io/badge/KubeVirt-1D7C42?style=flat-square&logo=&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins_Slave-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![JumpServer](https://img.shields.io/badge/JumpServer-00979D?style=flat-square&logo=&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-02A8EF?style=flat-square&logo=packer&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-24292F?style=flat-square&logo=tailscale&logoColor=white)
 
 ### 🌐 网络
@@ -70,9 +73,9 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/snake-light.svg" />
-  <img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/snake-light.svg" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/snake-light.svg" />
+  <img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/snake-light.svg" width="95%" />
 </picture>
 
 ---
@@ -88,7 +91,7 @@
 ---
 
 <p align="center">
-  <code>🌊 风与水 · 静而有力</code>
+  <code>🌊 狐风拂码 · 汐落成诗</code>
   <br /><br />
   <img src="https://img.shields.io/github/last-commit/FwindEmiko/FwindEmiko?style=flat-square&color=1E3A5F&label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0" />
 </p>
