@@ -39,19 +39,30 @@
 
 ### 🖥️ 运维
 
+**系统**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+**容器 & 编排**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![KubeVirt](https://img.shields.io/badge/KubeVirt-1D7C42?style=flat-square&logo=&logoColor=white)
+
+**反向代理 & Web**
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-24292F?style=flat-square&logo=tailscale&logoColor=white)
+
+**CI/CD & 代码仓库**
 ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins_Slave-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+**安全运维 & 堡垒机**
 ![JumpServer](https://img.shields.io/badge/JumpServer-00979D?style=flat-square&logo=&logoColor=white)
+
+**基础设施即代码**
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Packer](https://img.shields.io/badge/Packer-02A8EF?style=flat-square&logo=packer&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-24292F?style=flat-square&logo=tailscale&logoColor=white)
 
 ### 🌐 网络
 
@@ -62,17 +73,6 @@
 ![EVE-NG](https://img.shields.io/badge/EVE--NG-009688?style=flat-square&logo=&logoColor=white)
 
 ---
-
-## 📊 GitHub 统计
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/FwindEmiko?style=for-the-badge&logo=github&logoColor=white&color=60A5FA&labelColor=1E3A5F&label=%F0%9F%91%A5+Followers" />
-  <img src="https://img.shields.io/github/last-commit/FwindEmiko/FwindEmiko?style=for-the-badge&logo=github&logoColor=white&color=3B82F6&labelColor=1E3A5F&label=%F0%9F%94%84+Updated" />
-  <img src="https://img.shields.io/github/repo-size/FwindEmiko/FwindEmiko?style=for-the-badge&logo=github&logoColor=white&color=60A5FA&labelColor=1E3A5F&label=%F0%9F%93%A6+Profile" />
-  <img src="https://img.shields.io/github/languages/count/FwindEmiko/FwindEmikoCore?style=for-the-badge&logo=github&logoColor=white&color=3B82F6&labelColor=1E3A5F&label=Lang" />
-</div>
-
-<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/snake-dark.svg" />
