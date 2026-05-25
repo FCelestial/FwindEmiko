@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=26&duration=4000&pause=1000&color=60A5FA&center=true&vCenter=true&width=680&lines=%E7%8B%90%E9%A3%8E%E8%BD%A9%E6%B1%90+%C2%B7+F.windEmiko+%E2%9C%A8;%E9%94%90%E7%95%8C%E5%B9%BB%E5%A2%83+MiragEdge+%E5%88%9B%E5%A7%8B%E4%BA%BA;Minecraft+%E4%BA%92%E9%80%9A%E6%9C%8D+%C2%B7+Java+%C3%97+%E5%9F%BA%E5%B2%A9;%E8%AE%A9%E6%AF%8F%E4%B8%AA%E7%8E%A9%E5%AE%B6%E6%89%BE%E5%88%B0%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E5%B9%BB%E5%A2%83;%E9%A3%8E%E6%8B%82%E6%B0%B4%E9%9D%A2%EF%BC%8C%E8%87%AA%E6%9C%89%E6%B6%9F%E6%BC%AA" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=26&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=680&lines=%E7%8B%90%E9%A3%8E%E8%BD%A9%E6%B1%90+%C2%B7+F.windEmiko+%E2%9C%A8;%E9%94%90%E7%95%8C%E5%B9%BB%E5%A2%83+MiragEdge+%E5%88%9B%E5%A7%8B%E4%BA%BA;Minecraft+%E4%BA%92%E9%80%9A%E6%9C%8D+%C2%B7+Java+%C3%97+%E5%9F%BA%E5%B2%A9;%E8%AE%A9%E6%AF%8F%E4%B8%AA%E7%8E%A9%E5%AE%B6%E6%89%BE%E5%88%B0%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E5%B9%BB%E5%A2%83;%E9%A3%8E%E6%8B%82%E6%B0%B4%E9%9D%A2%EF%BC%8C%E8%87%AA%E6%9C%89%E6%B6%9F%E6%BC%AA" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=26&duration=4000&pause=1200&color=60A5FA&center=true&vCenter=true&width=680&lines=%E2%9C%A8+%E7%8B%90%E9%A3%8E%E8%BD%A9%E6%B1%90+%C2%B7+F.windEmiko;%F0%9F%8C%99+%E7%8B%90%E9%A3%8E%E6%8B%82%E7%A0%81%EF%BC%8C%E6%B1%90%E8%90%BD%E6%88%90%E8%AF%97;%F0%9F%A6%8A+%E7%8B%90%E6%80%9D%E8%A7%A3%E7%BC%9A%EF%BC%8C%E9%A3%8E%E8%B5%B7%E6%88%90%E5%BA%8F;%F0%9F%8C%8A+%E8%BD%A9%E7%AA%97%E5%90%AC%E6%B1%90%EF%BC%8C%E9%94%AE%E8%90%BD%E7%94%9F%E8%8A%B1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=26&duration=4000&pause=1200&color=2563EB&center=true&vCenter=true&width=680&lines=%E2%9C%A8+%E7%8B%90%E9%A3%8E%E8%BD%A9%E6%B1%90+%C2%B7+F.windEmiko;%F0%9F%8C%99+%E7%8B%90%E9%A3%8E%E6%8B%82%E7%A0%81%EF%BC%8C%E6%B1%90%E8%90%BD%E6%88%90%E8%AF%97;%F0%9F%A6%8A+%E7%8B%90%E6%80%9D%E8%A7%A3%E7%BC%9A%EF%BC%8C%E9%A3%8E%E8%B5%B7%E6%88%90%E5%BA%8F;%F0%9F%8C%8A+%E8%BD%A9%E7%AA%97%E5%90%AC%E6%B1%90%EF%BC%8C%E9%94%AE%E8%90%BD%E7%94%9F%E8%8A%B1" />
   </picture>
 </p>
 
@@ -14,7 +14,7 @@
 锐界幻境（MiragEdge）创始人，Minecraft 插件开发者，兼基础设施运维与网络工程师。  
 喜欢用代码构建可靠且富有创造力的数字空间——无论是游戏世界的互通幻境，还是底层的网络架构。
 
-> 风拂水面，自有涟漪。做有力量而不张扬的事。
+> *Crafting code with a fox's wit, the wind's flow, and the tide's calm.*
 
 ---
 
@@ -91,7 +91,7 @@
 ---
 
 <p align="center">
-  <code>🌊 风与水 · 静而有力</code>
+  <code>🌊 狐风拂码 · 汐落成诗</code>
   <br /><br />
   <img src="https://img.shields.io/github/last-commit/FwindEmiko/FwindEmiko?style=flat-square&color=1E3A5F&label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0" />
 </p>
