@@ -75,9 +75,9 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/snake-light.svg" />
-  <img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/snake-light.svg" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/snake-light.svg" />
+  <img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/snake-light.svg" width="95%" />
 </picture>
 
 ---
@@ -87,7 +87,7 @@
 <p align="center">
   <a href="https://github.com/FwindEmiko"><img src="https://img.shields.io/badge/GitHub-FwindEmiko-1E3A5F?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://miragedge.top/"><img src="https://img.shields.io/badge/%F0%9F%8C%8C_MiragEdge.top-3B82F6?style=flat-square" /></a>
-  <a href="https://github.com/FCelestial"><code>🦊 星玖</code></a>
+  <a href="https://github.com/FCelestial">🦊 <img src="https://img.shields.io/badge/%E6%98%9F%E7%8E%92-60A5FA?style=flat-square" /></a>
 </p>
 
 ---
