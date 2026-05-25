@@ -75,9 +75,9 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/snake-light.svg" />
-  <img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/FCelestial/FCelestial/main/profile/snake-light.svg" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/snake-light.svg" />
+  <img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/FwindEmiko/FwindEmiko/main/profile/snake-light.svg" width="95%" />
 </picture>
 
 ---
