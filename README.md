@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=2563EB&center=true&vCenter=true&width=600&lines=%E2%9C%A8+%E7%8B%90%E9%A3%8E%E8%BD%A9%E6%B1%90+%C2%B7+F.windEmiko;%F0%9F%8C%99+%E7%8B%90%E9%A3%8E%E6%8B%82%E7%A0%81%EF%BC%8C%E6%B1%90%E8%90%BD%E6%88%90%E8%AF%97;%F0%9F%A6%8A+%E7%8B%90%E6%80%9D%E8%A7%A3%E7%BC%9A%EF%BC%8C%E9%A3%8E%E8%B5%B7%E6%88%90%E5%BA%8F;%F0%9F%8C%8A+%E8%BD%A9%E7%AA%97%E5%90%AC%E6%B1%90%EF%BC%8C%E9%94%AE%E8%90%BD%E7%94%9F%E8%8A%B1" alt="Typing SVG" />
 </p>
 
-## 🦊✨ 狐风轩汐
+## 🦊✨ 狐风轩汐 F.windEmiko
 
 <div align="center">
   <img src="https://img.shields.io/badge/Name-%E7%8B%90%E9%A3%8E%E8%BD%A9%E6%B1%90-2563EB?style=for-the-badge" />
